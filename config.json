@@ -1,0 +1,9 @@
+{
+    "org_name":"Demo Account",
+    "config":{
+        "providers": ["AWS", "Azure", "GCP"],
+        "severity": ["High", "Medium", "low"],
+        "cloudTags":{},
+        "cloudAccountIds":["All"]
+    }
+}
